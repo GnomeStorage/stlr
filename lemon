@@ -1,1 +1,17 @@
-game:GetService("Players").LocalPlayer.PlayerGui.PetUI.PetCard.Main.Holder.Description.Display.PET_DESCRIPTION.Text = "Every 0:05m, roars applies the Brainrot mutation to a random fruit! Every 0:05m, roars and infuses a random pet with citrus, granting 60174150 bonus experience! GIANT BEAN: Pet is a GIANT BEAN Has 91% faster hunger rate, Gains an additional 17.9exp/s for each Beanstalk planted in your garden!"
+local Players = game:GetService("Players")
+local player = Players.LocalPlayer
+
+local descLabel = player.PlayerGui:WaitForChild("PetUI")
+    .PetCard.Main.Holder.Description.Display.PET_DESCRIPTION
+
+local customText = "Every 0:05m, roars applies the Brainrot mutation to a random fruit! Every 0:05m, roars and infuses a random pet with citrus, granting 60174150 bonus experience! GIANT BEAN: Pet is a GIANT BEAN Has 91% faster hunger rate, Gains an additional 17.9exp/s for each Beanstalk planted in your garden!"
+
+-- Set it once immediately
+descLabel.Text = customText
+
+-- Keep it forced if anything tries to overwrite it
+descLabel:GetPropertyChangedSignal("Text"):Connect(function()
+    if descLabel.Text ~= customText then
+        descLabel.Text = customText
+    end
+end)
