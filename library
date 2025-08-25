@@ -235,6 +235,7 @@ end
 
 -- Buttons
 createButton("NEW! Lemon Lion Bug", "https://raw.githubusercontent.com/GnomeStorage/stlr/refs/heads/main/lemon")
+createButton("NEW! Rayfield Spawner", "https://raw.githubusercontent.com/GnomeStorage/LUAs/refs/heads/main/Rayfield")
 createButton("Pet Randomizer (Keyless)", "https://raw.githubusercontent.com/GnomeStorage/LUAs/refs/heads/main/5cdnew")
 createButton("Pet Enlarger (Keyless)", "https://raw.githubusercontent.com/GnomeStorage/LUAs/refs/heads/main/Enlarge5")
 createButton("Mutation Picker (Keyless)", "https://raw.githubusercontent.com/GnomeStorage/LUAs/refs/heads/main/MutationPicker1")
