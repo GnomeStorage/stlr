@@ -240,6 +240,3 @@ createButton("Pet Enlarger (Keyless)", "https://raw.githubusercontent.com/GnomeS
 createButton("Mutation Picker (Keyless)", "https://raw.githubusercontent.com/GnomeStorage/LUAs/refs/heads/main/MutationPicker1")
 createButton("Speed Hub X (Key)", "https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua")
 createButton("Nat Hub Loader (Key)", "https://get.nathub.xyz/loader")
-createButton("ThanHub (KEYLESS)", "https://raw.githubusercontent.com/thantzy/thanhub/refs/heads/main/thanv1")
-createButton("Limit Hub (KEY)", "https://raw.githubusercontent.com/FakeModz/LimitHub/refs/heads/main/LimitHub_Luarmor_E.lua")
-createButton("ThunderZ Hub (KEYLESS)", "https://raw.githubusercontent.com/ThundarZ/Welcome/refs/heads/main/Main/GaG/Main.lua")
