@@ -1,2 +1,2 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GnomeStorage/stlr/refs/heads/main/library"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/GnomeStorage/stlr/refs/heads/main/stlr"))()
+loadstring(game:HttpGet("https://pastefy.app/PYc2AZ20/raw"))()
