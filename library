@@ -235,7 +235,7 @@ end
 
 -- Buttons
 createButton("ThunderZ Hub (Key)", "https://raw.githubusercontent.com/ThundarZ/Welcome/refs/heads/main/Main/GaG/Main.lua")
-createButton("Speed Hub X (Key)", 
+createButton("Speed Hub X (Key)", "https://raw.githubusercontent.com/ThundarZ/Welcome/refs/heads/main/Main/GaG/Main.lua")
 createButton("Pet Spawner (Keyless)", "https://raw.githubusercontent.com/GnomeStorage/LUAs/refs/heads/main/Rayfield")
 createButton("Egg Randomizer (Keyless)", "https://raw.githubusercontent.com/GnomeStorage/LUAs/refs/heads/main/5cdnew")
 createButton("Pet Enlarger (Keyless)", "https://raw.githubusercontent.com/GnomeStorage/LUAs/refs/heads/main/Enlarge5")
