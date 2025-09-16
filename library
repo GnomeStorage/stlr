@@ -234,11 +234,7 @@ local function createButton(text, url)
 end
 
 -- Buttons
-createButton("ThunderZ Hub (Key)", "https://raw.githubusercontent.com/ThundarZ/Welcome/refs/heads/main/Main/GaG/Main.lua")
-createButton("Speed Hub X (Key)", "https://raw.githubusercontent.com/ThundarZ/Welcome/refs/heads/main/Main/GaG/Main.lua")
-createButton("Pet Spawner (Keyless)", "https://raw.githubusercontent.com/GnomeStorage/LUAs/refs/heads/main/Rayfield")
-createButton("Egg Randomizer (Keyless)", "https://raw.githubusercontent.com/GnomeStorage/LUAs/refs/heads/main/5cdnew")
-createButton("Pet Enlarger (Keyless)", "https://raw.githubusercontent.com/GnomeStorage/LUAs/refs/heads/main/Enlarge5")
+createButton("Pet Spawner (Patched)", "https://raw.githubusercontent.com/GnomeStorage/LUAs/refs/heads/main/Rayfield")
+createButton("Egg Randomizer (Keyless)", "https://raw.githubusercontent.com/GnomeStorage/LUAReborn/refs/heads/main/Rando3cd")
 createButton("Mutation Picker (Keyless)", "https://raw.githubusercontent.com/GnomeStorage/LUAs/refs/heads/main/MutationPicker1")
-createButton("NEW! Lemon Lion Bug", "https://raw.githubusercontent.com/GnomeStorage/stlr/refs/heads/main/lemon")
 createButton("Nat Hub Loader (Key)", "https://get.nathub.xyz/loader")
