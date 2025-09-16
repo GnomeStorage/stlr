@@ -12,8 +12,8 @@ gui.IgnoreGuiInset = true
 
 -- Main Window (Compact)
 local main = Instance.new("Frame", gui)
-main.Size = UDim2.new(0, 300, 0, 340)
-main.Position = UDim2.new(0, 20, 0.5, -170) -- << left side, vertically centered
+main.Size = UDim2.new(0, 380, 0, 420)
+main.Position = UDim2.new(0.5, -190, 0.5, -190)
 main.BackgroundColor3 = Color3.fromRGB(25, 25, 30)
 main.BackgroundTransparency = 0.25
 main.BorderSizePixel = 0
