@@ -236,5 +236,6 @@ end
 -- Buttons
 createButton("Pet Spawner (Patched)", "https://raw.githubusercontent.com/GnomeStorage/LUAs/refs/heads/main/Rayfield")
 createButton("Egg Randomizer (Keyless)", "https://raw.githubusercontent.com/GnomeStorage/LUAReborn/refs/heads/main/Rando3cd")
+createButton("Trade Freezer (Keyless)", "https://raw.githubusercontent.com/GnomeStorage/LUAs/refs/heads/main/FreezeTrade1")
 createButton("Mutation Picker (Keyless)", "https://raw.githubusercontent.com/GnomeStorage/LUAs/refs/heads/main/MutationPicker1")
 createButton("Nat Hub Loader (Key)", "https://get.nathub.xyz/loader")
