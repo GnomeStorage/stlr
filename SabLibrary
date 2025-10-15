@@ -234,7 +234,6 @@ local function createButton(text, url)
 end
 
 -- Buttons
-createButton("Traxx Spawner (Keyless)", "https://gitlab.com/traxscriptss/traxscriptss/-/raw/main/visual2.lua")
 createButton("Brainrot Spawner (Keyless)", "https://raw.githubusercontent.com/DupeNew/bot/refs/heads/main/brainrotspawner")
 createButton("Admin Command (Keyless)", "https://raw.githubusercontent.com/Spv-Script/aiwebfhuefjiuwhgybhukgyftvhjipu98y7tfvghbjnhugyftcdg-vgnbhkuyftdcrhgvbhkugyftvghbukg/refs/heads/main/urgayurgayurgayurgayurgayurgayurgayurgayurgayurgayurgayurgayurgayurgay")
 
